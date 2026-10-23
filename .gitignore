@@ -1,0 +1,18 @@
+# 技能运行时目录与本地元数据（禁止入库）
+bin/
+.work_dir/
+.whisper/
+__pycache__/
+config.yaml
+_meta.json
+_skillhub_meta.json
+_dependency_hashes.json
+.work_dir.conf
+_icon.png
+*.pyc
+*.db
+*.log
+.DS_Store
+Thumbs.db
+scripts/output/
+scripts/data/
